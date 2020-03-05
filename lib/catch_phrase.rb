@@ -1,3 +1,3 @@
 def catch_phrase
-  puts (Phrase)
+  puts (phrase)
 end
